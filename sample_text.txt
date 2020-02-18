@@ -1,0 +1,6 @@
+sample text file to test: compression is one of the most important tools in computer science and is also one of the most fundamental ideas in information science. The idea is to take some data, compress (encode) it
+into fewer bits for storage or transmission, and then decompress (decode) the data to its original
+form (or very close to its original form) at a later point. Huffman Coding is one of the best ways
+to encode because it is lossless (you can always recover the original data from the compressed
+data exactly), optimal (you can’t compress the data beyond what Huffman codes can do without
+additonal information about the data), and easy to encode and decode. 
